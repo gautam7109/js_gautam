@@ -8,3 +8,26 @@ track width front:"1400",
 minimum truning radius:"4.5",
 minimum ground clearence:"170"
 };
+var capacities = {
+seating capacity:"5",
+fuel tank capicity:"35"
+};
+var engine = {
+type:"KB Series",
+no of cylinder:"3",
+no of valves:"12",
+capacity:"998",
+bore*stroke:"73.0*79.5",
+compression ratio:"10:1",
+max power:"67/6200",
+max torque:"90/3500",
+fuel distribution:"Multipoint injection"
+};
+var Transmission = {
+type:"5 Speed MT"
+};
+var weight = {
+kerb weight:"860-880",
+gross vehicle weight:"1320"
+};
+
