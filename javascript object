@@ -1,0 +1,10 @@
+var dimension = {
+overall lenght:"3500",
+overall width:"1600",
+overall height:"1490",
+wheelbase:"2360",
+track width rear:"1405",
+track width front:"1400",
+minimum truning radius:"4.5",
+minimum ground clearence:"170"
+};
