@@ -1,0 +1,9 @@
+var calculator = fuction(){
+var a = prompt();
+var b = prompt();
+add=(a+b);
+sub=(a-b);
+multi=(a*b);
+div=(a/b);
+};
+calculator();
